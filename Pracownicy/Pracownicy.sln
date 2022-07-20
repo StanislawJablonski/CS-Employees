@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pracownicy", "Pracownicy\Pracownicy.csproj", "{2EB951C0-D625-40E9-B88B-4059FE67B477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pracownicy Test", "Pracownicy Test\Pracownicy Test.csproj", "{2FBB0FB6-D2C4-4E07-AC4B-2E8D4EE09B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB951C0-D625-40E9-B88B-4059FE67B477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB951C0-D625-40E9-B88B-4059FE67B477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB951C0-D625-40E9-B88B-4059FE67B477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB951C0-D625-40E9-B88B-4059FE67B477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBB0FB6-D2C4-4E07-AC4B-2E8D4EE09B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBB0FB6-D2C4-4E07-AC4B-2E8D4EE09B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBB0FB6-D2C4-4E07-AC4B-2E8D4EE09B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBB0FB6-D2C4-4E07-AC4B-2E8D4EE09B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
